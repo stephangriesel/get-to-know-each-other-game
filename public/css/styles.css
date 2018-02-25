@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');
+
+body {
+    color:#fff;
+    font-family: 'Mukta Mahee', sans-serif;
+    margin:0;
+    padding:0;
+    width:100%;
+    max-width:300px;
+}
+
+.wrapper {
+    background-color:#00225F;
+    border-radius: 10px;
+    position:absolute;
+    text-align: center;
+    top:10%;
+    width:100%;
+    height:auto;
+}
+
+#btn {
+    padding:20px;
+    background-color: #00C7E3;
+    border: 5px solid #fff;
+    font-size:18px;
+    text-transform:uppercase;
+    font-weight: 900;
+    margin-bottom:20px;
+}
+
+
+
+
+
