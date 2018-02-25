@@ -24,13 +24,29 @@ var question = [
     'Why did you decide to do the work you are doing now?',
     'What’s the best way a person can spend their time?',
     'What are you looking forward to in the coming months?',
-    'Where do you usually go when you when you have time off?',
+    'Where do you usually go when you have time off?',
     'Who inspires you to be better?',
     'They say that everyone has a book in them. What would your book be about?',
     'What do you spend the most time thinking about?',
     'What are you addicted to?',
     'What gets you fired up?',
     'What are three interesting facts about you?'
+    'Who is your hero?',
+    'What is your biggest fear?',
+    'What is your favorite family vacation?',
+    'What is your favorite thing about your career?',
+    'Would you rather ride a bike, ride a horse, or drive a car?',
+    'What would you sing at Karaoke night?',
+    'If you could only eat one meal for the rest of your life, what would it be?',
+    'Have you ever had a nickname? What is it?',
+    'How many pairs of shoes do you own?',
+    'What was the last book you read?',
+    'What\'s your favorite movie?',
+    'What was your first job?',
+    'If you could join any past or current music group which would you want to join?',
+    'How many languages do you speak?'
+
+
 
 ]
 
