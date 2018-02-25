@@ -30,7 +30,7 @@ var question = [
     'What do you spend the most time thinking about?',
     'What are you addicted to?',
     'What gets you fired up?',
-    'What are three interesting facts about you?'
+    'What are three interesting facts about you?',
     'Who is your hero?',
     'What is your biggest fear?',
     'What is your favorite family vacation?',
